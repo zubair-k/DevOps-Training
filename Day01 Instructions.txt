@@ -1,0 +1,5 @@
+Installed Ubuntu - Git comes preinstalled.
+Changed directory (created directory first) '~/Git'
+Run 'git config user.email <my email address>'
+Run 'git config user.name <my name>'
+Run 'git clone <URL for git>'
